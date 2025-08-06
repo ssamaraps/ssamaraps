@@ -1,8 +1,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header"/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Samara+Porto+Souza+•+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Em+busca+de+estágio+na+área+de+tecnologia;Motivada%2C+comunicativa+e+em+constante+aprendizado" alt="Typing SVG" />
-</a>
+
+
+
 
 
 <h1 align="center" style="color:#D946EF; font-weight:700; font-size:3rem;">
