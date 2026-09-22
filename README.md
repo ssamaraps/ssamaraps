@@ -5,7 +5,9 @@
 </h1>
 
 <p align="center" style="max-width:700px; font-size:18px; color:#D946EF; margin: 0 auto 20px auto;">
-  Estudante de Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia, inovação e aprendizado contínuo. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e evoluir junto com projetos desafiadores.
+
+> **Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com experiência em Qualidade de Software e interesse em Desenvolvimento de Software, Backend, Dados e Inteligência Artificial. Em constante aprendizado, explorando Java, Python, SQL, APIs, bancos de dados e soluções com IA.**
+
 </p>
 
 <p align="center">
