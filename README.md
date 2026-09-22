@@ -15,6 +15,7 @@
 
 ---
 
+<!--
 <div align="center">
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ssamaraps&show_icons=true&hide_border=true&title_color=D946EF&icon_color=FCA5F1&text_color=FFFFFF&bg_color=1E1B2E"/>
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssamaraps&layout=compact&hide_border=true&title_color=D946EF&text_color=FCA5F1&bg_color=1E1B2E"/>
@@ -23,8 +24,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssamaraps&bg_color=1E1B2E&color=FCA5F1&line=D946EF&point=A855F7&area=true&hide_border=true"/>
 </p>
-
----
+-->
 
 ### Tecnologias
 
@@ -52,10 +52,12 @@
 
 ---
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssamaraps/ssamaraps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssamaraps/ssamaraps/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssamaraps/ssamaraps/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
