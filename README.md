@@ -1,84 +1,49 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header"/>
 
-<h1 align="center" style="color:#D946EF; font-weight:700; font-size:3rem;">
-  Samara Porto Souza
-</h1>
+<h1 align="center">Samara Porto Souza</h1>
 
-<p align="center" style="max-width:700px; font-size:18px; color:#D946EF; margin: 0 auto 20px auto;">
-
-> **Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com experiência em Qualidade de Software e interesse em Desenvolvimento de Software, Backend, Dados e Inteligência Artificial. Em constante aprendizado, explorando Java, Python, SQL, APIs, bancos de dados e soluções com IA.**
-
+<p align="center">
+  QA Júnior na Spread Tecnologia, estudando Análise e Desenvolvimento de Sistemas na FIAP.<br>
+  Trabalho com testes e qualidade de software no dia a dia, mas também curto programar e mexer com dados — venho estudando Java, Python, SQL, APIs e um pouco de IA aplicada.
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=D946EF&size=22&center=true&vCenter=true&width=600&lines=QA+J%C3%BAnior+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%94%8D;Explorando+Backend%2C+Dados+%26+IA+%F0%9F%92%BB;Aberta+a+oportunidades+em+Tecnologia+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?color=D946EF&size=20&center=true&vCenter=true&width=500&lines=QA+J%C3%BAnior+%7C+Spread+Tecnologia;Estudando+Backend%2C+Dados+e+IA;Aberta+a+oportunidades+em+TI">
   </a>
 </p>
-</p>
 
 ---
 
-<!-- Estatísticas GitHub -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ssamaraps&show_icons=true&count_private=true&hide_border=true&title_color=D946EF&icon_color=FCA5F1&text_color=FFFFFF&bg_color=1E1B2E" alt="Samara Porto Souza GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssamaraps&layout=compact&hide_border=true&title_color=D946EF&text_color=FCA5F1&bg_color=1E1B2E"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssamaraps&bg_color=1E1B2E&color=FCA5F1&line=D946EF&point=A855F7&area=true&hide_border=true"/>
-</p>
-
----
-
-<!-- Tecnologias -->
-<h3 align="center">🛠️ Tecnologias que eu uso:</h3>
-<div align="center"><br>
-
-  <!-- Frontend -->
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <!-- Backend / Linguagens -->
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <!-- Banco de Dados -->
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  
-  <!-- Ciência de Dados -->
-  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Matplotlib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-
-</div>
-
----
-
-<h3 align="center">📫 Onde me encontrar:</h3>
 <div align="center">
-  <a href="https://instagram.com/samarap.s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:samaraporto1301@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/samaraporto1301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/5511968746360" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ssamaraps&show_icons=true&hide_border=true&title_color=D946EF&icon_color=FCA5F1&text_color=FFFFFF&bg_color=1E1B2E"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssamaraps&layout=compact&hide_border=true&title_color=D946EF&text_color=FCA5F1&bg_color=1E1B2E"/>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssamaraps/ssamaraps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssamaraps/samaraps/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssamaraps/ssamaraps/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer"/>
+### Tecnologias
+
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+</div>
+
+---
+
+### Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/samaraporto1301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:samaraporto1301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/samarap.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5511968746360"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer"/>
