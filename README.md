@@ -12,8 +12,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=D946EF&size=22&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!+🚀;Vamos+construir+coisas+incríveis+juntos!+💡;Tecnologia+é+a+minha+paixão+💻">
+    <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=D946EF&size=22&center=true&vCenter=true&width=600&lines=QA+J%C3%BAnior+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%94%8D;Explorando+Backend%2C+Dados+%26+IA+%F0%9F%92%BB;Aberta+a+oportunidades+em+Tecnologia+%F0%9F%9A%80">
   </a>
+</p>
 </p>
 
 ---
